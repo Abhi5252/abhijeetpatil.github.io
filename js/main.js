@@ -285,7 +285,10 @@
 	     	]
 		})
 	};
-
+	
+	
+				
+				
 	// Document on load.
 	$(function(){
 		fullHeight();
@@ -293,6 +296,8 @@
 		counterWayPoint();
 		contentWayPoint();
 		burgerMenu();
+		
+		
 
 		clickMenu();
 		// navActive();
